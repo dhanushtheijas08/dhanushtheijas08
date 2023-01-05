@@ -21,7 +21,7 @@ Computer Science Engineering student | Acquiring knowledge in Full Stack Web dev
 </p>
 
 <h3 align="centre">My GitHub Stats</h3>
-<a href="http://www.github.com/dhanushtheijas08"><img src="https://github-readme-stats.vercel.app/api?username=dhanushtheijas08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dhanushtheijas08's GitHub stats" height="250" width="480" /></a>
+
 
 <a href="http://www.github.com/dhanushtheijas08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushtheijas08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="250" width="480"/></a>
 
