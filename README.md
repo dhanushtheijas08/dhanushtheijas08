@@ -6,7 +6,7 @@ A passionate Full Stack Web development and Building applications using Flutter
  Acquiring knowledge in Front End Web development | Building Flutter applications | Competitive coder
 
 * 🌍  I'm based in Coimbatore, Tamil Nadu
-* ✉️  You can contact me at [dhanushtheijas08@gmai.com](mailto:dhanushtheijas08@gmail.com)
+* ✉️  You can contact me at [dhanushtheijas08@gmail.com](mailto:dhanushtheijas08@gmail.com)
 * 🧠  I'm learning React  Js
 
 <h3 align="left">Languages and  Tools:</h3>
