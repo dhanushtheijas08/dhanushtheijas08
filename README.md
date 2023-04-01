@@ -3,11 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A passionate Full Stack Web development and Building applications using Flutter
 -------------------------------------------------------------------------------
+ Acquiring knowledge in Front End Web development | Building Flutter applications | Competitive coder
 
-Computer Science Engineering student | Acquiring knowledge in Full Stack Web development | Building Flutter applications | Competitive coder
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [dhanushtheijas08@gmai.com](mailto:dhanushtheijas08@gmai.com)
+* 🌍  I'm based in Coimbatore, Tamil Nadu
+* ✉️  You can contact me at [dhanushtheijas08@gmai.com](mailto:dhanushtheijas08@gmail.com)
 * 🧠  I'm learning React  Js
 
 <h3 align="left">Languages and  Tools:</h3>
