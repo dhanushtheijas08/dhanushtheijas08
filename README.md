@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhanush
 ===============================================================================================================================
 
-A Passionate Front End Developer and Building applications using Flutter 
+A passionate Front End Developer and Building applications using Flutter 
 -------------------------------------------------------------------------------
 Front End Developer | React Js | JavaScript | Tailwind CSS | Building Flutter applications | competitive coder
 
