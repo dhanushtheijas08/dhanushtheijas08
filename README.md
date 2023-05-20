@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A passionate Front End Developer and Building applications using Flutter 
 -------------------------------------------------------------------------------
-Front End Developer | React Js | JavaScript | Tailwind CSS | Building Flutter applications | competitive coder
+Front End Developer | React Js | JavaScript | Tailwind CSS | Building Flutter applications | DSA
 
 * 🌍  I'm based in Coimbatore, Tamil Nadu
 * ✉️  You can contact me at [dhanushtheijas08@gmail.com](mailto:dhanushtheijas08@gmail.com)
