@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front End Developer | React Developer | JavaScript | Tailwind CSS
 
-* 🌍  I'm based in Coimbatore, Tamil Nadu
 * ✉️  You can contact me at [dhanushtheijas08@gmail.com](mailto:dhanushtheijas08@gmail.com)
 
 <h3 align="left">Languages and  Tools:</h3>
