@@ -19,4 +19,3 @@ Front End Developer | React • Redux • Material UI • JavaScript • Tailwin
 
 <a href="http://www.github.com/dhanushtheijas08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushtheijas08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="250" width="480"/></a>
 
-<a href="http://www.github.com/dhanushtheijas08"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhanushtheijas08&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
